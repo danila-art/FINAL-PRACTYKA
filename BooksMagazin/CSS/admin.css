@@ -1,0 +1,83 @@
+body {
+    background: url("../images/texture_wallpaper_6.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+}
+.header {
+    text-align: center;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.hello{
+    font-family: "Lucida Sans Unicode";
+    font-size: 20pt;
+    margin-left: 200px;
+    margin-top: 25px;
+    text-align: center;
+    padding-top: 10px;
+}
+.add_book{
+    position: absolute;
+    background-color: white;
+    width: 450px;
+    height: 700px;
+    margin-left: 10%;
+    margin-top: 150px;
+
+}
+.add_book form{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 20%;
+
+}
+.message_add{
+    margin-left: 50px;
+    font-size: 16pt;
+}
+
+.delete_book{
+    position: absolute;
+    background-color: white;
+    width: 450px;
+    height: 200px;
+    margin-left: 50%;
+    margin-top: 150px;
+}
+.delete_book form{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.message_delete{
+    margin-left: 50px;
+    font-size: 16pt;
+}
+.submit12{
+    margin-top: 5%;
+}
+.home{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.home a{
+    text-decoration: none;
+    color: black;
+    font-size: 16pt;
+}
+.info_book{
+    position: absolute;
+    background-color: white;
+    width: 450px;
+    height: 1200px;
+    margin-left: 50%;
+    margin-top: 450px;
+}

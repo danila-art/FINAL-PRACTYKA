@@ -1,0 +1,53 @@
+.box_reg {
+    position: absolute;
+    width: 450px;
+    height: 550px;
+    margin-bottom: 220px;
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 350px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.box_reg form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.form_oglav {
+    text-align: center;
+}
+
+.login {
+    padding-left: 2px;
+    padding-top: 5px;
+}
+
+.email {
+    padding-left: 2px;
+    padding-top: 5px;
+}
+
+.password {
+    padding-left: 2px;
+    padding-top: 5px;
+}
+.perehod{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.perehod_reg{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
